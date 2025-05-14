@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @davidoff100
-- 👀 I’m interested in cool apps.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: He/Him
+- 👋 Greetings! , I’m David.
+- 👀 I’m interested in building complex applications.
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me: Contact me on discord @ davidoff10.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: No fun fact sadly..
 
 <!---

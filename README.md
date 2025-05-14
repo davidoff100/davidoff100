@@ -2,7 +2,6 @@
 - 👀 I’m interested in building complex applications.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: Contact me on discord @ davidoff10.
-- 🇷🇴 Romanian student 14 y/o developer.
 - 💻 Languages / Tools: Java ☕ • JavaScript ⚡ • Python 🐍.  
 - 🚀 Fast learner.
 <!---

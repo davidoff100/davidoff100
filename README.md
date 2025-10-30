@@ -1,5 +1,5 @@
 - 👋 Greetings! , I’m David.
-- 👀 I’m interested in building complex applications.
+- 👀 I love Cybersecurity and networking.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: Contact me on discord @ davidoff10.
 <!---
